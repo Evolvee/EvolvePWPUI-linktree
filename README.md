@@ -1,4 +1,4 @@
-2.4.3 TBC --> https://github.com/Evolvee/EvolvePWPUI
+**2.4.3 TBC** --> https://github.com/Evolvee/EvolvePWPUI
 
 Classic TBC --> https://github.com/Evolvee/EvolvePWPUI-ClassicTBC
 
